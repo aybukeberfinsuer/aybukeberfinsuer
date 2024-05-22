@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aybüke Berfin SÜER</h1>
 <h3 align="center">A developer from Turkey</h3>
 
-- 🔭 I’m currently working on [unioku]([https://github.com/aybukeberfinsuer/Store](https://github.com/unioku/unioku.com))
+- 🔭 I’m currently working on [unioku](https://github.com/unioku/unioku.com)
 - https://unioku.com/
 
 - 🌱 I’m currently learning **ASP.NET Core**
